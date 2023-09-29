@@ -75,7 +75,7 @@ function pararContadormusica() {
 function iniciarMusica() {
     musicaPlayer.style.width = "0";
     musicaPlayer.style.height = "0";
-    musicaPlayer.src = "https://www.youtube.com/embed/RROO-SwAOy8?autoplay=1"
+    musicaPlayer.src = "https://www.youtube.com/embed/RROO-SwAOy8?autoplay=1&start="+tempoReproducaomusica;
 }
 
 function verificarUltimosBotoes() {
