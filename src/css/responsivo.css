@@ -28,7 +28,7 @@
         flex-direction: row;
         align-items: flex-end;
         width: 100%;
-        padding: 30px;
+        padding-bottom: 100px;
     }
 
     .botoes .botao img {
@@ -39,8 +39,6 @@
  @media (max-width: 425px) {
     main .personagem .imagem {
         height: 80%;
-        margin-top: 20%
-        ;
     }
 
     .conteudo .logo {
