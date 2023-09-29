@@ -36,7 +36,7 @@
     }
 }
 
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
     main .personagem .imagem {
         height: auto;
     }
@@ -62,4 +62,4 @@
     .botoes .botao img {
         max-width: 50px;
     }
-}
+} */

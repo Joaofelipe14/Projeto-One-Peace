@@ -27,9 +27,9 @@
             </div>
         </div>
 
-        <div class="personagem">
-            <img class="imagem" src="./src/imagens/personagem-roronoa-zoro.png" alt="Personagem Roronoa Zoro">
-            <div class="conteudo">
+        <div class="personagem ">
+            <iframe class="imagem"  id="youtube-player"src="https://www.youtube.com/embed/J2AI8yD5hs0" title="Zoro vs King | One Piece | AMV - Royalty [4K]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="conteudo opacity">
                 <i class="logo"></i>
                 <h2 class="nome-personagem">Roronoa Zoro</h2>
                 <p class="descricao">Primeiro pirata (segundo membro se contarmos com Luffy) a se juntar à tripulação de Piratas do Chapéu de Palha, Zoro aceitou o convite de Luffy após o capitão salvar sua vida.</p>
@@ -45,7 +45,7 @@
             </div>
         </div>
 
-        <div class="personagem">
+        <div class="personagem  ">
             <img class="imagem" src="./src/imagens/personagem-nami.png" alt="Personagem Nami">
             <div class="conteudo">
                 <i class="logo"></i>
@@ -54,7 +54,7 @@
             </div>
         </div>
 
-        <div class="personagem">
+        <div class="personagem" onclick="mudarSelecao(this)">
             <img class="imagem" src="./src/imagens/personagem-sanji.png" alt="Personagem Sanji">
             <div class="conteudo">
                 <i class="logo"></i>
@@ -65,31 +65,32 @@
     </main>
     <ul class="botoes">
         <li>
-            <button class="botao">
+            <button class="botao "  onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-chopper.png" alt="Tripulação Chopper">
             </button>
         </li>
         <li>
-            <button class="botao">
+            <button class="botao"  onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-zoro.png" alt="Tripulação Roronoa Zoro">
             </button>
         </li>
         <li>
-            <button class="botao selecionado">
+            <button class="botao selecionado"  onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-luffy.png" alt="Tripulação Monkey D. Luffy">
             </button>
         </li>
         <li>
-            <button class="botao">
+            <button class="botao"  onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-nami.png" alt="Tripulação Nami">
             </button>
         </li>
         <li>
-            <button class="botao">
+            <button class="botao"  onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-sanji.png" alt="Tripulação Sanji">
             </button>
         </li>
     </ul>
+    <script src="./src/js/logica.js"></script>
 </body>
 
 </html>
