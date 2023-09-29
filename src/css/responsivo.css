@@ -36,9 +36,10 @@
     }
 }
 
-/* @media (max-width: 425px) {
+ @media (max-width: 425px) {
     main .personagem .imagem {
-        height: auto;
+        height: 80%;
+        margin-top: 20%;
     }
 
     .conteudo .logo {
@@ -62,4 +63,4 @@
     .botoes .botao img {
         max-width: 50px;
     }
-} */
+} 
