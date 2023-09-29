@@ -12,11 +12,16 @@
     <link rel="stylesheet" href="./src/css/reset.css">
     <link rel="stylesheet" href="./src/css/estilos.css">
     <link rel="stylesheet" href="./src/css/responsivo.css">
+    <script src="https://www.youtube.com/iframe_api"></script>
+
 
     <title>One Piece - Semana do Zero ao Programador Contratado</title>
 </head>
 
 <body>
+
+    <iframe id="musica-player" src="https://www.youtube.com/embed/RROO-SwAOy8" title="Binks Sake On Violin (Slowed Down + Reverb)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
     <main class="personagens">
         <div class="personagem">
             <img class="imagem" src="./src/imagens/personagem-tony-chopper.png" alt="Personagem Tony Chopper">
@@ -65,27 +70,27 @@
     </main>
     <ul class="botoes">
         <li>
-            <button class="botao "  onclick="mudarSelecao(this)">
+            <button class="botao"   id="2" onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-chopper.png" alt="Tripulação Chopper">
             </button>
         </li>
         <li>
-            <button class="botao"  onclick="mudarSelecao(this)">
+            <button class="botao"  id="1" onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-zoro.png" alt="Tripulação Roronoa Zoro">
             </button>
         </li>
         <li>
-            <button class="botao selecionado"  onclick="mudarSelecao(this)">
+            <button class="botao selecionado"   id="3" onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-luffy.png" alt="Tripulação Monkey D. Luffy">
             </button>
         </li>
         <li>
-            <button class="botao"  onclick="mudarSelecao(this)">
+            <button class="botao"   id="5" onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-nami.png" alt="Tripulação Nami">
             </button>
         </li>
         <li>
-            <button class="botao"  onclick="mudarSelecao(this)">
+            <button class="botao"  id="4"  onclick="mudarSelecao(this)">
                 <img src="./src/imagens/tripulacao-sanji.png" alt="Tripulação Sanji">
             </button>
         </li>
