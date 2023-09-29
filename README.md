@@ -1,5 +1,7 @@
 # README - Projeto "One Piece - Semana do Programador"
 
+projetoo: https://joaofelipe14.github.io/Projeto-One-Peace/
+
 Este é um projeto web chamado "One Piece - Semana do Zero ao Programador Contratado". Ele consiste em uma página web que apresenta informações sobre alguns personagens do anime/mangá "One Piece" e permite ao usuário selecionar um personagem da tripulação dos Piratas do Chapéu de Palha para exibir detalhes sobre ele. O projeto foi desenvolvido em HTML e CSS e utiliza fontes do Google Fonts para estilização.
 
 
