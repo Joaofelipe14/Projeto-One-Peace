@@ -25,8 +25,8 @@ Esperamos que este projeto seja útil e que você aproveite a criação e a expl
 ###Preview 
 ### Preview
 
-![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Gerenciamento-de-Tarefas/refs/heads/src/imagens/image.png)
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Projeto-One-Peace/refs/heads/main/src/imagens/image.png)
 _Tela para pc_
 
-![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Gerenciamento-de-Tarefas/refs/heads/src/imagens/imagecelular.png)
-_Tela para celular_
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Projeto-One-Peace/refs/heads/main/src/imagens/imagecelular.png)
+
