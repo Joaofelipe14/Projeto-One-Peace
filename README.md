@@ -20,3 +20,13 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para fazer mel
 ---
 
 Esperamos que este projeto seja útil e que você aproveite a criação e a exploração dos personagens de "One Piece"! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco.
+
+
+###Preview 
+### Preview
+
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Gerenciamento-de-Tarefas/refs/heads/src/imagens/image.png)
+_Tela para pc_
+
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/Gerenciamento-de-Tarefas/refs/heads/src/imagens/imagecelular.png)
+_Tela para celular_
